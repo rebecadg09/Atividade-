@@ -8,9 +8,9 @@ footer {
   background-color: black; 
   color: white;
   position: fixed; 
-  botton 0; 
-  width 100%; 
-  height 2rem; 
+  bottom: 0; 
+  width: 100; 
+  height: 2 rem;
 }
 
 footer p 
